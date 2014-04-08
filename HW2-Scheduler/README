@@ -1,0 +1,8 @@
+Instructions:
+Program has been tested under CIMS linux environment.
+
+To compile this project, you can
+1, cd to /OSLab2 directory and type in terminal: make -f makefile
+2, or type compile command by hand: g++ main.cpp -o sched
+
+Thank you!

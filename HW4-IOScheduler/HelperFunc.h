@@ -15,6 +15,7 @@
 #include <unistd.h>
 #include <fstream>
 #include <sstream>
+#include <cstring>
 
 #include "UniversalVar.h"
 
